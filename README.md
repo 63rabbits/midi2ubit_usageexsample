@@ -1,14 +1,13 @@
 
+# midi2ubit_UsageExample
+
+This app plays the following songs (Treble only). This song was imported into the app using [midi2ubit](https://github.com/63rabbits/midi2ubit).
+
+- 12 Variations on "Ah, vous dirai-je maman", K.265 - W. A. Mozart
+
+***Please note that the playing time is long.***
+
 > Open this page at [https://63rabbits.github.io/midi2ubit_usageexsample/](https://63rabbits.github.io/midi2ubit_usageexsample/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/63rabbits/midi2ubit_usageexsample** and import
 
 ## Edit this project ![Build status badge](https://github.com/63rabbits/midi2ubit_usageexsample/workflows/MakeCode/badge.svg)
 
