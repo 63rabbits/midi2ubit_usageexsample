@@ -7,6 +7,8 @@ This app plays the following songs (Treble only). This song was imported into th
 
 ***Please note that the playing time is long.***
 
+[!] The file size is too big to download to micro:bit. To be improved.
+
 > Open this page at [https://63rabbits.github.io/midi2ubit_usageexsample/](https://63rabbits.github.io/midi2ubit_usageexsample/)
 
 ## Edit this project ![Build status badge](https://github.com/63rabbits/midi2ubit_usageexsample/workflows/MakeCode/badge.svg)
