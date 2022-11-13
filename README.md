@@ -1,7 +1,7 @@
 
 # midi2ubit_UsageExample
 
-This app plays the following songs (Treble only of VAR.I and III). This song was imported into the app using [midi2ubit](https://github.com/63rabbits/midi2ubit).
+This app plays the following music (Treble only of VAR.I and III). This music was imported into the app using [midi2ubit](https://github.com/63rabbits/midi2ubit).
 
 - 12 Variations on "Ah, vous dirai-je maman", K.265 - W. A. Mozart
 
