@@ -5,6 +5,21 @@ This app plays the following music (Treble only of VAR.I and III). This music wa
 
 - 12 Variations on "Ah, vous dirai-je maman", K.265 - W. A. Mozart
 
+How to run
+---
+
+1. Access the URL below.  
+https://makecode.microbit.org/
+
+2. Click "Import" and "Import URL..."
+
+3. Paste the URL below, then click "Go ahead!".  
+https://github.com/63rabbits/midi2ubit_usageexsample
+
+5. Press the A button on the simulator.
+
+
+---
 
 > Open this page at [https://63rabbits.github.io/midi2ubit_usageexsample/](https://63rabbits.github.io/midi2ubit_usageexsample/)
 
